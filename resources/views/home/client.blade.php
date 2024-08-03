@@ -12,7 +12,7 @@
                    <div class="img_container">
                       <div class="img-box">
                          <div class="img_box-inner">
-                            <img src="images/client.jpg" alt="">
+                            <img src="https://images.pexels.com/photos/1036627/pexels-photo-1036627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
                          </div>
                       </div>
                    </div>
@@ -34,7 +34,7 @@
                    <div class="img_container">
                       <div class="img-box">
                          <div class="img_box-inner">
-                            <img src="images/client.jpg" alt="">
+                            <img src="https://images.pexels.com/photos/1036627/pexels-photo-1036627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
                          </div>
                       </div>
                    </div>
@@ -56,7 +56,7 @@
                    <div class="img_container">
                       <div class="img-box">
                          <div class="img_box-inner">
-                            <img src="images/client.jpg" alt="">
+                            <img src="https://images.pexels.com/photos/1036627/pexels-photo-1036627.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" alt="">
                          </div>
                       </div>
                    </div>
